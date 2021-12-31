@@ -1,5 +1,6 @@
 # ThinkBeforeYouPostChromeExtension
-Think Before You Post -- A Chrome Extension to Improve Online Behavior
+
+##Think Before You Post: A Chrome Extension for Improving Online Behavior 
 
 The Chrome extension changes the "What's on your mind" text in the Facebook status update box to a nudge people to share better (more accurate or more kind) content online: 
 
